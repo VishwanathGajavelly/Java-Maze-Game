@@ -21,12 +21,13 @@
   4. Collecting 20 random fruits we can get back a lost life [we cannot exceed 3 lives].
 
 ### Usage: 
-    Using Ecllipse IDE: import this project from git. Provide the details as following:
-    URI: https://github.com/VishwanathGajavelly/Java-Maze-Game
-    hostname:  github.com
-    Repository path: /VishwanathGajavelly/Java-Maze-Game
-    Or else you can directly download the files into a folder and run the Maze.java file on any IDE.
-    
-    Using Command Prompt: download all the files into a folder, run all the 4 java files (Key.java, Maze.java, Image.java &         PlayRegion.java), then execute Maze.java file --> game starts.
+   Using Ecllipse IDE: import this project from git. Provide the details as following:
+   URI: https://github.com/VishwanathGajavelly/Java-Maze-Game
+   hostname:  github.com
+   Repository path: /VishwanathGajavelly/Java-Maze-Game
+   
+   Or else you can directly download the files into a folder and run the Maze.java file on any IDE.
+   
+   Using Command Prompt: download all the files into a folder, run all the 4 java files (Key.java, Maze.java, Image.java & PlayRegion.java), then execute Maze.java file --> game starts.
 
 ## Thanks for your time.
