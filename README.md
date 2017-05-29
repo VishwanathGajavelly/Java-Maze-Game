@@ -22,9 +22,9 @@
 
 ### Usage: 
    Using Ecllipse IDE: import this project from git. Provide the details as following:
-   URI: https://github.com/VishwanathGajavelly/Java-Maze-Game
-   hostname:  github.com
-   Repository path: /VishwanathGajavelly/Java-Maze-Game
+   1. URI: https://github.com/VishwanathGajavelly/Java-Maze-Game
+   2. hostname:  github.com
+   3. Repository path: /VishwanathGajavelly/Java-Maze-Game
    
    Or else you can directly download the files into a folder and run the Maze.java file on any IDE.
    
