@@ -1,4 +1,4 @@
-# 2D Maze Game.
+# Interactive 2D Maze Game.
 
 ### Details: 
   1. Highly interactive maze game developed on Java Swings using JFrames.
@@ -30,4 +30,6 @@
    
    Using Command Prompt: download all the files into a folder, run all the 4 java files (Key.java, Maze.java, Image.java & PlayRegion.java), then execute Maze.java file --> game starts.
 
-## Thanks for your time.
+## Thanks for your time in reading this, do check-out my other projects.
+
+## Any forks and modification requests are highly obliged.
